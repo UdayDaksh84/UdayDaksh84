@@ -1,4 +1,4 @@
-                   ![logo](https://github.com/UdayDaksh84/UdayDaksh84/blob/main/banner.png)
+![logo](https://github.com/UdayDaksh84/UdayDaksh84/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Uday Daksh</h1>
 <h3 align="center">A passionate Software Engineer & Web Developer from India</h3>
 
