@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaydaksh84&label=Profile%20views&color=0e75b6&style=flat" alt="udaydaksh84" /> </p>
 
-- 🔭 I’m currently **Studying Computer Science**
+- 🔭 I’m currently **Studying Computer Science & #365DaysofCode Challenge **
 
 - 🤝 I’m looking for help with **Web developers**
 
